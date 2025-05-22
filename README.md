@@ -10,6 +10,8 @@ This repository provides MicroPython firmware for controlling a CoreXY motion sy
 # Example
 
 
+The code for this example can be found [here](example/CoreXYDrive.py).
+
 # Hardware details
 * [CAD](hardware/coreXY.step)
 * [ET-MINI MicroStep Driver](https://www.ett.co.th/prod2019/ET-MINI_MICRO_STEP/th-man-ET-Mini%20MicroStep%20Driver.pdf)
