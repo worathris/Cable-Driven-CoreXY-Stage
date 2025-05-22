@@ -1,6 +1,6 @@
 # CoreXY
 
-<img src="hardware/pico_pneumatic_valve_render.png"/>
+<img src="hardware/coreXY_image_render.png"/>
 
 
 
