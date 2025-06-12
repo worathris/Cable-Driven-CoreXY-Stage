@@ -8,7 +8,7 @@ This repository provides MicroPython firmware for controlling a CoreXY motion sy
 <img src="hardware/coreXY_Wiring_Diagram.jpg" alt="wiring_diagram"/>
 
 # Example
-
+[![Watch the video](https://img.youtube.com/vi/tBpJW4bJub8/hqdefault.jpg)](https://www.youtube.com/watch?v=tBpJW4bJub8)
 
 The code for this example can be found [here](example/CoreXYDrive.py).
 
