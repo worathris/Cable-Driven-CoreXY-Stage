@@ -1,4 +1,4 @@
-# CoreXY
+# Cable-Driven CoreXY Stage driven by RP2040 and Micropython
 
 <img src="hardware/coreXY_image_render.png"/>
 
