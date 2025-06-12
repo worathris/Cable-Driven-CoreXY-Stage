@@ -27,10 +27,22 @@ All components—including stepper drivers, cables, pulleys, and fasteners—are
 # Wiring diagram
 <img src="hardware/coreXY_Wiring_Diagram.jpg" alt="wiring_diagram"/>
 
-# Example
+## 📸 Media
 [![Watch the video](https://img.youtube.com/vi/tBpJW4bJub8/hqdefault.jpg)](https://www.youtube.com/watch?v=tBpJW4bJub8)
 
+## 🧠 Applications
+- Plotting and drawing robots
+- Interactive CNC demonstrations
+- Low-cost educational motion platforms
+- Vision-guided automation prototypes
+
 The code for this example can be found [here](example/CoreXYDrive.py).
+
+## 🛠️ Hardware
+- **Controller:** RP2040
+- **Motors:** Stepper motors NEMA8 with ET-MINI MicroStep Driver
+- **Drive:** Cable and pulley mechanism
+- **Guides:** Linear rails E-GMLG9-200 from Mitsumi
 
 # Hardware details
 * [CAD](hardware/coreXY.step)
