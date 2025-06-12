@@ -4,7 +4,7 @@
 
 This repository provides MicroPython firmware for controlling a CoreXY motion system using the Maker Pi Pico and two 20BYG101-02 stepper motors (NEMA 8, P = 4.4 W). The stepper motors are driven by the ET-MINI MicroStep Driver, ensuring precise and smooth motion control. The firmware includes stepper motor control logic for X and Y axis movement, optimized for 2D printing or CNC applications. It also supports adjustable microstepping and timing control for enhanced performance. The system is ideal for DIY 3D printers, robotic arms, or other applications requiring accurate motion control in embedded environments.
 
-The main features of this stage are:
+## ✨ Features
 
 - RP2040 + MicroPython Control
 The system is powered by the Raspberry Pi RP2040 microcontroller running MicroPython, offering flexible scripting, real-time control, and rapid prototyping. All firmware is fully open-source and maintained on GitHub for easy customization and collaboration.
