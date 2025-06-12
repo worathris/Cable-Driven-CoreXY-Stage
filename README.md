@@ -27,7 +27,7 @@ All components—including stepper drivers, cables, pulleys, and fasteners—are
 # Wiring diagram
 <img src="hardware/coreXY_Wiring_Diagram.jpg" alt="wiring_diagram"/>
 
-## 📸 Media
+## 📸 Demonstration Media
 [![Watch the video](https://img.youtube.com/vi/tBpJW4bJub8/hqdefault.jpg)](https://www.youtube.com/watch?v=tBpJW4bJub8)
 
 ## 🧠 Applications
