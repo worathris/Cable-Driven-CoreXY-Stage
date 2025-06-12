@@ -4,6 +4,25 @@
 
 This repository provides MicroPython firmware for controlling a CoreXY motion system using the Maker Pi Pico and two 20BYG101-02 stepper motors (NEMA 8, P = 4.4 W). The stepper motors are driven by the ET-MINI MicroStep Driver, ensuring precise and smooth motion control. The firmware includes stepper motor control logic for X and Y axis movement, optimized for 2D printing or CNC applications. It also supports adjustable microstepping and timing control for enhanced performance. The system is ideal for DIY 3D printers, robotic arms, or other applications requiring accurate motion control in embedded environments.
 
+The main features of this stage are:
+RP2040 + MicroPython Control
+The system is powered by the Raspberry Pi RP2040 microcontroller running MicroPython, offering flexible scripting, real-time control, and rapid prototyping. All firmware is fully open-source and maintained on GitHub for easy customization and collaboration.
+
+Fully Open Source and Developer-Friendly
+Designed for makers, researchers, and educators, the entire project—firmware, mechanical design, and wiring—is open source. Comprehensive documentation and GitHub support enable easy replication, extension, and community contributions.
+
+Cable-Driven and Fully Backdrivable
+Unlike traditional belt or screw-driven systems, this XY stage uses a lightweight cable mechanism that ensures smooth motion with minimal friction. The stage is fully backdrivable, allowing for passive compliance and natural response to external forces.
+
+No Mechanical End-Stops Required
+The design eliminates the need for mechanical end-stop switches. The system can detect contact or obstruction through motion feedback, enhancing safety and reducing component count.
+
+Compact and Lightweight
+Optimized for portability and integration, the entire mechanism is compact and lightweight, making it suitable for desktop environments, mobile platforms, and constrained spaces.
+
+Economical Design with Readily Available Components
+All components—including stepper drivers, cables, pulleys, and fasteners—are chosen for affordability and global availability. The mechanical parts are designed in CAD for easy 3D printing or laser cutting, supporting low-cost fabrication and rapid assembly.
+
 # Wiring diagram
 <img src="hardware/coreXY_Wiring_Diagram.jpg" alt="wiring_diagram"/>
 
