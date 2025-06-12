@@ -24,7 +24,7 @@ Optimized for portability and integration, the entire mechanism is compact and l
 - Economical Design with Readily Available Components
 All components—including stepper drivers, cables, pulleys, and fasteners—are chosen for affordability and global availability. The mechanical parts are designed in CAD for easy 3D printing or laser cutting, supporting low-cost fabrication and rapid assembly.
 
-# Wiring diagram
+## 🔌 Wiring Diagram
 <img src="hardware/coreXY_Wiring_Diagram.jpg" alt="wiring_diagram"/>
 
 ## 📸 Demonstration Media
